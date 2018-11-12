@@ -1,0 +1,9 @@
+---
+title: markdownNote
+date: 2018-11-08 17:48:53
+category: markdown语法
+tags:
+---
+通过标记空格解析调整文本格式。
+* 标题
+符号#通过多个嵌套完成几级标题的区分
