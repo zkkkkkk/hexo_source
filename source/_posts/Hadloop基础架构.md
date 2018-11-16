@@ -1,0 +1,7 @@
+---
+title: Hadoop基础架构
+date: 2018-11-12 16:40:12
+category: 大数据
+tags:
+---
+![avatar](https://user-gold-cdn.xitu.io/2018/5/18/163729578c5dbe95?imageslim)

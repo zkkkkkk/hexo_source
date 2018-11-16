@@ -1,7 +1,7 @@
 ---
 title: markdownNote
 date: 2018-11-08 17:48:53
-category: markdown语法
+category: 编辑器 
 tags:
 ---
 通过标记空格解析调整文本格式。
@@ -58,6 +58,5 @@ header1 | header 2 | header 3
 test    | test1    | test2
 test4   | test5    | test6
 ```
-
 
 
